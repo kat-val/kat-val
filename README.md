@@ -7,7 +7,7 @@
 <ul>
   <li>🌎 Argentina 🇦🇷 🌱 16 / 06 / 2001</li>
   <li>🎓 Estudiante de Diseño Gráfico de la <a href="https://fapyd.unr.edu.ar/">FAPyD</a>, UNR.</li>
-  <li>🎨 Enfoque: Front-end</li>
+  <li>💻 Desarrollo Web: Front-end, Junior.</li>
 </ul>
 
 ## Habilidades
