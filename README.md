@@ -12,19 +12,20 @@
 
 ## Habilidades
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000&color=F7DF1E)
 
 ![VSCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=fff)
 ![Github](https://img.shields.io/badge/-GitHub-%23F05032?style=flat-square&logo=github&logoColor=fff&color=22262A)
-![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=fff&color=00C7B7)
+![Vite](https://img.shields.io/badge/-Vite-%23F05032?style=flat-square&logo=vite&logoColor=fff&color=BD34FE)
+![React](https://img.shields.io/badge/-React-%23F05032?style=flat-square&logo=react&logoColor=fff&color=2AB1EC)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%2300C7B7?style=flat-square&logo=bootstrap&logoColor=fff&color=7411F6)
+![Tailwind](https://img.shields.io/badge/-Tailwind-%2300C7B7?style=flat-square&logo=tailwindcss&logoColor=fff&color=149ECA)
 ![Figma](https://img.shields.io/badge/-Figma-%2300C7B7?style=flat-square&logo=figma&logoColor=fff&color=F24E1E)
-<!-- ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react&logoColor=fff&labelColor=%231399C4&color=%231399C4) -->
 
 <hr>
-<p>🚀 <b>Ultimo proyecto:</b> https://github.com/HotelDivine/HotelDivine.github.io</p>
+<p>🚀 <b>Ultimo proyecto Grupal:</b> https://github.com/HotelDivine/HotelDivine.github.io</p>
 
 ## Otros:
 ![Ai](https://img.shields.io/badge/-Illustrator_🌟-%2300C7B7?style=flat-square&logo=adobeillustrator&logoColor=FF9A00&color=252525)
