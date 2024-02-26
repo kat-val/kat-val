@@ -26,6 +26,8 @@
 
 <hr>
 <p>🚀 <b>Ultimo proyecto Grupal:</b> https://github.com/HotelDivine/HotelDivine.github.io</p>
+<p>🌌 <b>Ultimo proyecto Personal:</b> https://github.com/HotelDivine/HotelDivine.github.io</p>
+
 
 ## Otros:
 ![Ai](https://img.shields.io/badge/-Illustrator_🌟-%2300C7B7?style=flat-square&logo=adobeillustrator&logoColor=FF9A00&color=252525)
