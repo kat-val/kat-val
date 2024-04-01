@@ -26,7 +26,7 @@
 
 <hr>
 <p>🚀 <b>Ultimo proyecto Grupal:</b> https://github.com/HotelDivine/HotelDivine.github.io</p>
-<p>🌌 <b>Ultimo proyecto Personal:</b> https://github.com/kat-val/Calculadora-JS</p>
+<p>🌌 <b>Ultimo proyecto Personal:</b> https://github.com/kat-val/To-Do-List</p>
 
 
 ## Otros:
